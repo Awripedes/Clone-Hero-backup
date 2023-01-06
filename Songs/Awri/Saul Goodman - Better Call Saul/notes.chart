@@ -1,0 +1,66 @@
+﻿[Song]
+{
+  Name = "Better Call Saul"
+  Artist = "Saul Goodman"
+  Charter = "Awripedes"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "song.mp3"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 117000
+  1152 = B 85000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  1152 = N 0 432
+  1168 = N 2 416
+  1184 = N 3 400
+  1632 = N 1 0
+  1680 = N 2 0
+  1728 = N 4 0
+  1728 = N 5 0
+  1776 = N 3 0
+  1824 = N 2 0
+  1920 = N 2 384
+  1936 = N 3 368
+  2384 = N 3 0
+  2400 = N 4 0
+  2496 = N 4 0
+  2544 = N 2 0
+  2544 = N 5 0
+  2688 = N 1 384
+  2688 = N 3 384
+  3168 = N 1 0
+  3216 = N 2 0
+  3264 = N 4 0
+  3264 = N 5 0
+  3360 = N 3 0
+  3456 = N 0 144
+  3648 = N 0 144
+  3840 = N 4 0
+  3936 = N 3 0
+  4032 = N 2 0
+  4128 = N 2 96
+  4272 = N 0 0
+  4296 = N 1 0
+  4368 = N 2 0
+  4416 = N 4 48
+  4416 = N 5 0
+  4512 = N 1 0
+  4560 = N 3 72
+  4560 = N 5 0
+  4656 = N 7 0
+  4656 = S 2 48
+}
